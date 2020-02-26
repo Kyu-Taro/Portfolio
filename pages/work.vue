@@ -101,7 +101,8 @@
       </v-card-text>
 
       <v-card-actions>
-        <v-btn color="orange" href="https://github.com/Kyu-Taro/u-farm"  text>Github</v-btn>
+        <v-btn color="orange" href="https://github.com/Kyu-Taro/PostBoard-Admin"  text>Github(Nuxt)</v-btn>
+        <v-btn color="orange" href="https://github.com/Kyu-Taro/PostBoard"  text>Github(Laravel)</v-btn>
       </v-card-actions>
     </v-card>
 
